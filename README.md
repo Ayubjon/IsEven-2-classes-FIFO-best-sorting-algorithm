@@ -1,1 +1,1 @@
-# IsEven + 2 classes FIFO + Best sorting algorithm
+# IsEven + 2 FIFO classes + Best sorting algorithm
