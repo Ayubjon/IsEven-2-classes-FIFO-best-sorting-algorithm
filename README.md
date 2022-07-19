@@ -1,1 +1,1 @@
-# IsEven-2-classes-FIFO-best-sorting-algorithm
+# IsEven + 2-classes-FIFO-best-sorting-algorithm
